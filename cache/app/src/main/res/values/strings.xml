@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">快取</string>
+    <string name="str_trouble_logging_in">登录遇到问题？</string>
+    <string name="str_meet_your_other_half">守护你的快递</string>
+    <string name="str_mobile_number_login">手机号码登录</string>
+    <string name="str_wechat_login">微信登录</string>
+    <string name="str_signing_in_means_agreeing">登录即代表同意</string>
+    <string name="str_signing_in_means_agreeing_center">及</string>
+    <string name="str_other_login_methods">——  其他登录方式  ——</string>
+</resources>
